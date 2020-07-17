@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2> Hi, I'm Flor Vilchez! <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/LLjvtJwvzaTni/giphy.gif" width="200">
+<p><img src="https://media.giphy.com/media/QYYrNBY2BiPXqahhwE/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;<em>JR Frontend Developer</br><img src="https://media.giphy.com/media/5WNhxOEzGbTKo/giphy.gif" width="30">&nbsp;&nbsp;Systems Analyst Student at <a href="https://www.ort.edu.ar/">ORT</a>
+</em></p>
 
-<!--
-**fmuriel/fmuriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: autochocadora](https://img.shields.io/twitter/follow/autochocadora?style=social)](https://twitter.com/autochocadora)
+[![Linkedin: Florencia Vilchez](https://img.shields.io/badge/-FlorenciaVilchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florencia-vilchez/)](https://www.linkedin.com/in/florencia-vilchez/)
+[![GitHub Flor Vilchez](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/fmuriel)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const flor = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Java, lil bit PHP],
+  tools: [React, Redux, Node, Styled-Components],
+  techCommunities: {
+                        director: "Women Who Code: Buenos Aires",
+                        mentor: "RailsGirls Buenos Aires"
+                      },
+ challenge: "I am doing the 'Catch of the Day' project based on Wes Bos' React for Beginners course"
+}
+```
+
+<img src="https://media.giphy.com/media/l1asFrJgxLoaqd1ysy/giphy.gif" width="60"> <em>I love connecting with people from around the world, so if you want to say hola, hi, こんにちは or 안녕하세요,  I'll be happy to chat!</b> :)</em>
+
+---
+
+⭐️ Thanks [@Thaiane] for this template! (https://github.com/Thaiane)

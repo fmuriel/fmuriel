@@ -13,7 +13,7 @@
 const flor = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java, lil bit PHP],
-  tools: [React, Redux, Node, Styled-Components],
+  tools: [React, Redux, Node, Styled-Components, Material UI],
   techCommunities: {
                         director: "Women Who Code: Buenos Aires",
                         mentor: "RailsGirls Buenos Aires"

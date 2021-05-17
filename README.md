@@ -18,7 +18,7 @@ const flor = {
                         director: "Women Who Code: Buenos Aires",
                         mentor: "RailsGirls Buenos Aires"
                       },
- challenge: "A Data Visualization board created using React.js and Styled Components"
+  challenge: "A Data Visualization board created using React.js and Styled Components"
 }
 ```
 

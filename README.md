@@ -18,7 +18,7 @@ const flor = {
                         director: "Women Who Code: Buenos Aires",
                         mentor: "RailsGirls Buenos Aires"
                       },
- challenge: "I am doing the 'Catch of the Day' project based on Wes Bos' React for Beginners course"
+ challenge: "A Data Visualization board created using React.js and Styled Components"
 }
 ```
 

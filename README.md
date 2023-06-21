@@ -1,5 +1,5 @@
 <h2> Hi, I'm Flor Vilchez! <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/LLjvtJwvzaTni/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" width="200">
 <p><img src="https://media.giphy.com/media/QYYrNBY2BiPXqahhwE/giphy.gif" width="30">&nbsp;&nbsp;&nbsp;<em>Frontend Developer</br><img src="https://media.giphy.com/media/5WNhxOEzGbTKo/giphy.gif" width="30">&nbsp;&nbsp;Systems Analyst and Digital Design Student at <a href="https://www.ort.edu.ar/">ORT</a>
 </em></p>
 
@@ -18,7 +18,6 @@ const flor = {
                         director: "Women Who Code: Buenos Aires",
                         mentor: "RailsGirls Buenos Aires"
                       },
-  challenge: "A Data Visualization board created using React.js and Styled Components"
 }
 ```
 
